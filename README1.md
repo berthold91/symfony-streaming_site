@@ -21,3 +21,13 @@
 
 * go to your project folder and run git init => the .git folder will be created, which is our local repository
 *
+
+#### step-3) let move our template and make all links working:
+
+1. let's first install some important dependencies
+
+- install annotation using composer...it will help us creating route
+- install twig using composer... for templation
+- install doctrine orm..and modify your DATABASE_URL config in .env
+- install symfony maker using composer...for creating controllers, models ..
+- commit your chages
